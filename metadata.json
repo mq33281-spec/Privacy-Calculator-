@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AK Calculator Lock",
+  "description": "A fully functional calculator that doubles as a secure, private vault for photos, notes, and sensitive information, featuring AI-powered privacy insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
